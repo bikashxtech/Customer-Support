@@ -158,13 +158,10 @@ Use tokio-console for live async task viewing
 
 Pull requests welcome! Please open an issue first to discuss what you’d like to change.
 
-🛡 License
-
-MIT License
 
 👨‍💻 Author
 
-Bikash Kumar GiriBackend Developer | Rustacean | Data Science Enthusiast
+Bikash Kumar Giri Backend Developer | Rustacean | Data Science Enthusiast
 
-GitHub | LinkedIn
+<a href="https://github.com/bikashxtech">GitHub</a>| <a href="https://www.linkedin.com/in/bikash-giri-089458286/">LinkedIn</a>
 
